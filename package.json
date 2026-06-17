@@ -1,0 +1,12 @@
+{
+  "name": "samplenodejsrepo",
+  "version": "1.0.0",
+  "description": "Minimal Node.js app for testing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=12"
+  }
+}
